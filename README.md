@@ -35,4 +35,4 @@ To get started:
 
 ## Important to know
 
-Project uses a mock API to store data. So the data will be cleared when the page reloads.
+Project uses a mock API to store data. So the data will be cleared when the page reloads.  
